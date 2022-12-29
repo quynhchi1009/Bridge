@@ -10,8 +10,6 @@ Divide the classes into two hierarchies:
 
 ### Structure
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18e7b55f-b63a-4824-afe7-c84fb5b29e6f/Untitled.png)
-
 1. **Abstraction** provides high-level control logic.
 2. **Implementation** declares the interface that’s common for all concrete implementations. 
 3. **Concrete Implementations** contain platform-specific code.
